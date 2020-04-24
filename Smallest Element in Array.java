@@ -18,9 +18,9 @@ class Main
 
 	public static void main(String[] args)
 	{
-       int[] arr = {7,2,3,9,5,8};
-       Main m = new Main();
-       m.smallestElement(arr);
+             int[] arr = {7,2,3,9,5,8};
+             Main m = new Main();
+             m.smallestElement(arr);
       
     }	
 }
